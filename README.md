@@ -1,9 +1,3 @@
-**Sakarya Üniversitesi
-**Sistem Programlama Dersi Ödevi
-
-
-# Nefise Türkoğlu - G211210022 (2A)
-
 proje amacı: C dilini ve libfdr kütüphanesini kullanarak bir girdi dosyasının okunması, anazliz edilmesi, elde edilen veri değerleriyle yeni bir sonuç dosyasının oluşturulması. Bu işlemleri yaparken metin dosyası olarak sadece .dat uzantılı dosyalar ile çalışılacak ve harici dosyalarda uyarı mesajı verilecektir.
 
 Proje içeriği:
@@ -45,5 +39,4 @@ Proje içeriği:
     main.c: Programın ana işlevini içeren kaynak dosyası.
     Makefile: Programın derlenmesini ve çalıştırılmasını otomatikleştiren kod dosyası 
 
-Programı çalıştırırken karşılaştığım ve çözemediğim sorunlardan dolayı örnek ekran çıktısı ekleyemedim.
 
